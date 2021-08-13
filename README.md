@@ -1,12 +1,8 @@
-# heading 1
+# TODO list
 
-## heading 2
+## Features
 
-- item 1
-- item 2
-- item 3
-
-1. numbered list
-2. numbered list 2
-
----
+* List of daily tasks
+  - quiet time
+  - read
+  - code
